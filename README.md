@@ -67,7 +67,7 @@
 ## 🔥 GitHub Contributions Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Uchiha-byte&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uchiha-byte&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
 ---
