@@ -1,4 +1,4 @@
-<!-- Profile Header Banner (Optional) -->
+<!-- Profile Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Uchiha+Byte;AI+%2F+ML+Developer;React+Native+App+Builder;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
@@ -34,13 +34,16 @@
 
 ---
 
-## 🧠 Highlight Projects
+## 🧠 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🩺 **AI Health App** | React, TensorFlow | Detects heart, brain, kidney diseases from scans using ML |
-| 💬 **Chat App with AI GIFs** | React Native, Firebase | Real-time messaging with AI-powered GIF replies & leaderboard |
-| 📊 **ML Models** | Python, Sklearn | Iris Prediction, Car Price Estimator, IPL Winner Predictor |
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🧠 [MedNexus](https://github.com/Uchiha-byte/MedNexus) | Jupyter, ML | AI health system to detect brain, heart, kidney, and other diseases |
+| 🚗 [Smart Vehicle Services System](https://github.com/Uchiha-byte/Smart_Vehicle_Services_System) | Python | AI-based management system for vehicle servicing |
+| 🍕 [PizzaCraft](https://github.com/Uchiha-byte/PizzaCraft) | TypeScript | Pizza ordering app with great UI and interactive flow |
+| 🎓 [Quiz Master](https://github.com/Uchiha-byte/Quiz_Master) | Python | Dynamic quiz game with multiple-choice logic |
+| 🤖 [AI Internship Projects](https://github.com/Uchiha-byte/Code_Clause_Internship_Artificial_Intelligence) | Python | ML collection: Iris, Heart Disease, Car Price, Diabetes prediction |
+| 🍳 [Recipe Generator](https://github.com/Uchiha-byte/Recipe_Generator) | Python | Suggests dishes based on given ingredients using NLP |
 
 ---
 
@@ -61,10 +64,19 @@
 
 ---
 
+## 🔥 GitHub Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Uchiha-byte&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph">
+</p>
+
+---
+
 ## 📍 Fun Fact
 
-> I code like a ninja ⚔️ and debug like a detective 🕵️‍♂️  
-> Learning new things every day, because Gen-Z never stops.
+> Passionate about turning ideas into intelligent solutions 💡  
+> Continuously learning, building, and pushing the limits of technology 🚀
+
 
 ---
 
