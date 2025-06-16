@@ -16,7 +16,7 @@
 - 🔭 Building an all-in-one AI Health Diagnosis App  
 - 🧠 Love working on ML models, automation & problem-solving  
 - 📱 React Native enthusiast — building modern mobile UIs  
-- ⚡ Exploring ethical hacking, IoT (ESP8266), and tech education  
+- ⚡ Exploring Ethical hacking, IoT & Tech Education  
 - 🏆 Completed multiple internships in ML & AI  
 - 📫 Reach me at: **[uchihabyte.git@gmail.com](mailto:uchihabyte.git@gmail.com)**
 
