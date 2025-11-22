@@ -6,7 +6,7 @@
 <h1 align="center">👨‍💻 Ans Ahmed Khan</h1>
 
 <p align="center">
-  🚀 AI & App Developer • 🧠 Machine Learning Enthusiast • 🔬 Lifelong Learner  
+  🚀 Web Applications Developer • 🧠 Machine Learning Enthusiast • 🔬 Lifelong Learner 
 </p>
 
 ---
